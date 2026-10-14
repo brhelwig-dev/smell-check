@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "smell-check",
+  "displayName": "Smell Check",
+  "version": "0.3.20",
+  "description": "A catalogue of LLM and agent anti-patterns, and the corrections for them",
+  "author": {
+    "name": "Brandon Helwig"
+  },
+  "homepage": "https://github.com/brhelwig/smell-check",
+  "repository": "https://github.com/brhelwig/smell-check",
+  "license": "MIT",
+  "keywords": [
+    "anti-patterns",
+    "agents",
+    "workflow",
+    "skills"
+  ]
+}
